@@ -13,6 +13,8 @@ The fonts are currently available in eighteen different styles.
 [A subset of an earlier version of Roboto](https://www.google.com/fonts/specimen/Roboto) is available from Google Fonts, and can be used as a web font.
 
 ## Setup
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Froboto.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Froboto?ref=badge_shield)
+
 
 #### Create a clean directory for roboto:
 
@@ -225,3 +227,7 @@ e.g. for testing output) depend on:
   (https://code.google.com/p/noto/)
   - (Noto subsequently depends on HarfBuzz: https://github.com/behdad/harfbuzz)
 - freetype-py (https://github.com/rougier/freetype-py)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Froboto.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Froboto?ref=badge_large)
